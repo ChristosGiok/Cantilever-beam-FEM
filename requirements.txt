@@ -1,11 +1,11 @@
 #Please make sure matplotlib and numpy is installed on your machine
 
-#In order to install run these command in CMD
+#In order to install run these commands in CMD:
 
 python -m pip install -U pip
 python -m pip install -U matplotlib
 
-#External libraries' versions:
+#versions:
 
 numpy==1.19.4
 matplotlib==3.3.3
