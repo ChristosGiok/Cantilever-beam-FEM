@@ -18,7 +18,28 @@ It takes values s, p, xp, w, E, b, d of a cantilever beam and calculates the def
 * d: The depth of the beam.
 * Please see Inputs/Sketch.png for input details
 
-* IDLE(3.9.1)
+# Setup
+In order to use the program u have to download the repository, navigate to the local directory and create a virtual environment with:
+[$ python3 -m venv venv]
+
+Then activate the virtual environment:
+For Linux/Mac OS:
+[$ source venv/bin/activate]
+
+For Windows:
+[> venv\Scripts\activate]
+
+Install the required libraries needed for this program with:
+[$ pip install -r requirements.txt]
+
+# How to use:
+Code detailed comments.
+
 
 # Solved Example. 
 #s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
+
+#   
+* IDLE(3.9.1)
+* Image does not open on googlecollab
+
