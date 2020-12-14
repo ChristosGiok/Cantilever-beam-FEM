@@ -32,9 +32,7 @@ For Windows:
 Install the required libraries needed for this program with:
 [$ pip install -r requirements.txt]
 
-# How to use:
-Code detailed comments.
-
+#Detailed comments on how to use
 
 # Solved Example. 
 #s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
