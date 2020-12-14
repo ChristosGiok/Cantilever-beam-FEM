@@ -39,5 +39,5 @@ Install the required libraries needed for this program with:
 
 #   
 * IDLE(3.9.1)
-* Image does not open on googlecollab
+
 
