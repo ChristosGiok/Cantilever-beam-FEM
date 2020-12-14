@@ -1,13 +1,12 @@
 # CE-UY 3013 Computing In Civil Engineering Project: FEM - Cantilever beam
 
 
-#  This program is intended to help engineering students with projects and assignments using the finite element method.
+#This program is intended to help engineering students with projects and assignments using the finite element method.
 
-#This program is designed to analyze a cantilever beam using FEM and output graphs of:
-#1. Delflection 
-#2. Shear force 
-#3. Bending moment 
+### FEM based analysis of cantilever beam:
+#It takes s, p, xp, w, E, b, d as an argument and calculates the deflection, shear force and bending moments at each node.
 
+#Please see Inputs/Sketch.png for input details
 #  The values the user must input are: 
 #1. S: The length of the beam.
 #2. P: The applied force acting on the beam.
@@ -18,5 +17,4 @@
 #7. d: The depth of the beam.
 
 # Solved Example. 
-#s,p,xp,w,E,b,d
-#10,200,3,50,200000000000,0.02,0.06
+#s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
