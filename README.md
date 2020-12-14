@@ -4,11 +4,11 @@
 This program is intended to help engineering students with projects and assignments using the finite element method.
 
 ### FEM based analysis of cantilever beam:
-It takes s, p, xp, w, E, b, d of a cantilever beam as an argument and calculates the deflection, shear force and bending moments at each node.
+It takes values s, p, xp, w, E, b, d of a cantilever beam and calculates the deflection, shear force and bending moments at each node.
 
 ** In future this method can be modified for other mboundary conditions for generalized solution for beams
 
-#  The values the user must input are: 
+#  Program inputs: 
 * S: The length of the beam.
 * P: The applied force acting on the beam.
 * xp: The distance from the fixed end to the applied force P.
@@ -17,6 +17,8 @@ It takes s, p, xp, w, E, b, d of a cantilever beam as an argument and calculates
 * b: The width of the beam.
 * d: The depth of the beam.
 * Please see Inputs/Sketch.png for input details
+
+* IDLE(3.9.1)
 
 # Solved Example. 
 #s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
