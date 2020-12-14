@@ -5,8 +5,7 @@
 python -m pip install -U pip
 python -m pip install -U matplotlib
 
-#versions:
-
-numpy==1.19.4
-matplotlib==3.3.3
+# versions:
+# numpy==1.19.4
+# matplotlib==3.3.3
 
