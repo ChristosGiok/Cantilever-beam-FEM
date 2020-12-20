@@ -1,7 +1,7 @@
 # CE-UY 3013 Computing In Civil Engineering Project: FEM - Cantilever beam
 
 
-This program is intended to help engineering students with projects and assignments using the finite element method.
+This program is intended to help engineering students with projects and assignments.
 
 ### FEM based analysis of cantilever beam:
 It takes values s, p, xp, w, E, b, d of a cantilever beam and calculates the deflection, shear force and bending moments at each node.
@@ -28,6 +28,6 @@ Install the required libraries needed:
 #s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
 
 #   
-* IDLE(3.9.1)
+* IDLE(3.9.1) prf
 
 
