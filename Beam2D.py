@@ -4,7 +4,7 @@ import numpy
 import matplotlib.pyplot as plt
 from PIL import Image
 
-im = Image.open("Input/helper.png")
+im = Image.open("Input/Sketch.png")
 im.show()
 
 print("Make sure you are consistant with units.\ne.g. if m is used for linear dimensions than the span, xp, and d, b should be in m and you will get the final deflection in m too\n\n\n")
