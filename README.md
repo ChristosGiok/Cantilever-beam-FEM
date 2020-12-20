@@ -19,22 +19,12 @@ It takes values s, p, xp, w, E, b, d of a cantilever beam and calculates the def
 * Please see Inputs/Sketch.png for input details
 
 # Setup
-In order to use the program u have to download the repository, navigate to the local directory and create a virtual environment with:
-[$ python3 -m venv venv]
-
-Then activate the virtual environment:
-For Linux/Mac OS:
-[$ source venv/bin/activate]
-
-For Windows:
-[> venv\Scripts\activate]
-
-Install the required libraries needed for this program with:
+Install the required libraries needed:
 [$ pip install -r requirements.txt]
 
-#Detailed comments on how to use
 
-# Solved Example. 
+
+# Example inputs. 
 #s,p,xp,w,E,b,d == 10,200,3,50,200000000000,0.02,0.06
 
 #   
